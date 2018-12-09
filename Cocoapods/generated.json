@@ -1,0 +1,256 @@
+[
+  {
+    "title": "Countries!",
+    "desc": "How worldly of you!",
+    "questions": [
+      {
+        "text": "Which is the only American state to begin with the letter 'p'?",
+        "answer": "1",
+        "answers": [
+          "Pennsylvania",
+          "Philadelphia",
+          "Peru",
+          "Puerto Rico"
+        ]
+      },
+      {
+        "text": "What is the diameter of Earth?",
+        "answer": "3",
+        "answers": [
+          "10,000 miles",
+          "7,000 miles",
+          "8,000 miles",
+          "9,000 miles"
+        ]
+      },
+      {
+        "text": "Which British city does not have underground rail systems? ",
+        "answer": "2",
+        "answers": [
+          "Liverpool",
+          "Glasgow",
+          "York",
+          "Newcastle"
+        ]
+      },
+      {
+        "text": "Where would you find the world's most ancient forest? ",
+        "answer": "2",
+        "answers": [
+          "Peru, South America",
+          "Cairns, Australia",
+          "Costa Rica, Central America",
+          "Guinea, Africa"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "desc": "Test your Sports knowledge",
+    "questions": [
+      {
+        "text": "What was the score of the UW vs. Stanford game on Nov 3, 2018?",
+        "answer": "1",
+        "answers": [
+          "27-23",
+          "26-21",
+          "14-7",
+          "21-21"
+        ]
+      },
+      {
+        "text": "Who owns the Golden State Warriors?",
+        "answer": "2",
+        "answers": [
+          "Elon Musk",
+          "Tony Ressler",
+          "Jerry Reinsdorf",
+          "Joe Lacob"
+        ]
+      },
+      {
+        "text": "What was Eliud Kipchoge's winning time in Nike's project, Breaking2?",
+        "answer": "3",
+        "answers": [
+          "2:00:03",
+          "1:59:58",
+          "2:00:25",
+          "2:01:01"
+        ]
+      },
+      {
+        "text": "What colour jersey is worn by the winners of each stage of the Tour De France?",
+        "answer": "4",
+        "answers": [
+          "Orange",
+          "Black",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "text": "What team does Stephen Curry's brother play for?",
+        "answer": "2",
+        "answers": [
+          "Boston Celtics",
+          "Portland Trail Blazers",
+          "Houston Rockets",
+          "None of the Above"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Leaders in Technology",
+    "desc": "The force is FEMALE",
+    "questions": [
+      {
+        "text": "Who is the COO of Facebook?",
+        "answer": "2",
+        "answers": [
+          "Ginni Rometty",
+          "Sheryl Sanberg",
+          "Susan Wojcicki",
+          "Solina Chau"
+        ]
+      },
+      {
+        "text": "Who is the COO of SpaceX?",
+        "answer": "4",
+        "answers": [
+          "Jenny Lee",
+          "Ginni Rometty",
+          "Mary Meeker",
+          "Gwynne Shotwell"
+        ]
+      },
+      {
+        "text": "Who is the CEO of Yahoo?",
+        "answer": "4",
+        "answers": [
+          "Amy Hood",
+          "Lucy Peng",
+          "Marissa Mayer",
+          "Mary Meeker"
+        ]
+      },
+      {
+        "text": "Who is a CEO of Oracle?",
+        "answer": "2",
+        "answers": [
+          "Meg Whitman",
+          "Safra Catz",
+          "Ursula Burns",
+          "Amy Hood"
+        ]
+      },
+      {
+        "text": "Who is the co-founder of Tinder, and the current CEO of Bumble?",
+        "answer": "2",
+        "answers": [
+          "Whitney Wolfe Herd",
+          "Safra Catz",
+          "Mary Barra",
+          "Jenny Lee"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Startups",
+    "desc": "The disruptors of the world",
+    "questions": [
+      {
+        "text": "Which internet powerhouse started its life as a startup named BackRub?",
+        "answer": "1",
+        "answers": [
+          "Google",
+          "Amazon",
+          "Wikipedia",
+          "WebMD"
+        ]
+      },
+      {
+        "text": "What nickname is given to Cambridge's burgeoning startup scene?",
+        "answer": "4",
+        "answers": [
+          "Silicon University",
+          "Silicon Street",
+          "Silicon Hall",
+          "Silicon Fen"
+        ]
+      },
+      {
+        "text": "Which famous singer owns private equity firm Elevation Partners, which has invested in the likes of Facebook and Yelp?",
+        "answer": "3",
+        "answers": [
+          "Elton John",
+          "Sting",
+          "Bono",
+          "Michael Bolton"
+        ]
+      },
+      {
+        "text": "Which of the following companies has NOT received any investment from actor and tech fan Ashton Kutcher?",
+        "answer": "4",
+        "answers": [
+          "Skype",
+          "Airbnb",
+          "Foursquare",
+          "Uber"
+        ]
+      },
+      {
+        "text": "According to KPMG, a UK tech startup is formed how often?",
+        "answer": "3",
+        "answers": [
+          "Every minute",
+          "Every half hour",
+          "Every hour",
+          "Every day"
+        ]
+      },
+      {
+        "text": "What was the original less-than-catchy startup name for Yahoo?",
+        "answer": "3",
+        "answers": [
+          "Yeeha!",
+          "One Stop Internet Shop",
+          "David and Jerry’s Guide to the World Wide Web",
+          "Everything You Need Online (EYNO)"
+        ]
+      },
+      {
+        "text": "Skype, one of the most successful startups of recent times, was developed in which country?",
+        "answer": "1",
+        "answers": [
+          "Estonia",
+          "Denmark",
+          "Sweden",
+          "Finland"
+        ]
+      },
+      {
+        "text": "Andreessen Horowitz, consistently named as one of the world's largest investment firms, played a major role in funding which social media site?",
+        "answer": "3",
+        "answers": [
+          "Facebook",
+          "Bebo",
+          "Twitter",
+          "Snapchat"
+        ]
+      },
+      {
+        "text": "Which current online behemoth was originally named Status?",
+        "answer": "3",
+        "answers": [
+          "Twitter",
+          "Facebook",
+          "Snapchat",
+          "MySpace"
+        ]
+      }
+    ]
+  }
+]
